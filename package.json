@@ -1,0 +1,19 @@
+{
+  "name": "splitwise_shobhit",
+  "version": "1.0.0",
+  "description": "splitwise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shobhitsingh29/splitwise_shobhit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shobhitsingh29/splitwise_shobhit/issues"
+  },
+  "homepage": "https://github.com/shobhitsingh29/splitwise_shobhit#readme"
+}
